@@ -1,6 +1,6 @@
 import 'package:flutter/cupertino.dart';
 
-import 'main.dart';
+import 'widget.dart';
 
 class Test1 {
   double contentWidth;
